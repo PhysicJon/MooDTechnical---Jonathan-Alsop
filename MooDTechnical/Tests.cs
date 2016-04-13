@@ -9,6 +9,10 @@ using OpenQA.Selenium.Support.UI;
 
 namespace MooDTechnical
 {
+    /************************/
+    /*    Jonathan Alsop    */
+    /************************/
+
     [TestFixture]
     public class Tests
     {
