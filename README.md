@@ -14,8 +14,10 @@ The user can create a new post that has a title and body text
 The user can publish the new post
 The published post can be read and contains its specific title and body
 
-The tests included in the Tests.cs file are
+The tests included in the Tests.cs file are:
 
-Test001 - Ensure a user can log in to the Dashboard successfully\n
-Test002 - Ensure a user can create and publish a post that includes a Title and Body text\n
-Test003 - Ensure the published post can be viewed on the main page and that it includes the correct Title and Body text\n
+Test001 - Ensure a user can log in to the Dashboard successfully
+
+Test002 - Ensure a user can create and publish a post that includes a Title and Body text
+
+Test003 - Ensure the published post can be viewed on the main page and that it includes the correct Title and Body text
