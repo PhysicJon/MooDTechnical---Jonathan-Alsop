@@ -9,9 +9,13 @@ Story:
 As a WordPress user I want to create new posts so I can share my blog posts with my readers
  
 Acceptance Criteria:
+
 The user can log in to WordPress
+
 The user can create a new post that has a title and body text
+
 The user can publish the new post
+
 The published post can be read and contains its specific title and body
 
 The tests included in the Tests.cs file are:
